@@ -1,0 +1,8 @@
+D:\csharptest\calctool\huaji\huaji\obj\Debug\huaji.csprojResolveAssemblyReference.cache
+D:\csharptest\calctool\huaji\huaji\obj\Debug\huaji.Form2.resources
+D:\csharptest\calctool\huaji\huaji\obj\Debug\huaji.Properties.Resources.resources
+D:\csharptest\calctool\huaji\huaji\obj\Debug\huaji.csproj.GenerateResource.Cache
+D:\csharptest\calctool\huaji\huaji\bin\Debug\huaji.exe
+D:\csharptest\calctool\huaji\huaji\bin\Debug\huaji.pdb
+D:\csharptest\calctool\huaji\huaji\obj\Debug\huaji.exe
+D:\csharptest\calctool\huaji\huaji\obj\Debug\huaji.pdb
